@@ -8,16 +8,16 @@ sidebar:
   education: False # NO MODIFICAR
 
   # Profile information
-  name: John Doe # Escribe tu nombre y apellido (1 nombre y 1 apellido)
+  name: Yahir Cortes # Escribe tu nombre y apellido (1 nombre y 1 apellido)
   tagline: React Native Mobile Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
   avatar: escudo.png # No modificar
 
   # Actualiza tus datos de contacto
-  email: john@gmail.com
-  phone: 123 123 1234
+  email: yahircorteslopez@gmail.com
+  phone: 314 147 1226
   website: # No agregar http://
-  linkedin: john # solo tu nombre de usuario de linkedin o dejar en blanco
-  github: john # solo tu nombre de usuario en github o dejar en blanco
+  linkedin: Yahir Cortés López  # solo tu nombre de usuario de linkedin o dejar en blanco
+  github: YahirCl # solo tu nombre de usuario en github o dejar en blanco
   gitlab: john # solo tu nombre de usuario en gitlab o dejar en blanco
   bitbucket: john # solo tu nombre de usuario en bitbucket o dejar en blanco
   twitter: '@john' # solo tu nombre de usuario en twitter o dejar en blanco
@@ -60,15 +60,27 @@ career-profile:
 educationcomplete:
   - degree: Bachelor Degree
     university: Universidad de Colima
-    time: 2018 - 2022
+    time: 2020 - 2024
     details: |
-      Facultad de Telemática - Software Engineer.
+      Universidad de Colima - Software Engineer.
+
+  - degree: Bachelor Degree
+    university: Universidad de Colima
+    time: 2017 - 2020
+    details: |
+      Universidad de Colima - Técnico, Analista Programador.
 
   - degree: Python Certification
     university: Udemy
-    time: 2022
+    time: 2023
     details: |
-      300 hrs course certification.
+      30 hrs course certification.
+
+   - degree: Python Django Certification
+    university: Udemy
+    time: 2023
+    details: |
+      360 hrs course certification.
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
