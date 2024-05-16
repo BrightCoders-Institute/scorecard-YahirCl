@@ -1,7 +1,6 @@
-#
-# Tenga en cuenta que al modificar este archivo, el mínimo error en la sintáxis puede generar errores
-#
+# Acomoda la sintaxis #
 
+# Tenga en cuenta que al modificar este archivo, el mínimo error en la sintaxis puede generar errores #
 
 sidebar:
   about: False # NO MODIFICAR
@@ -25,7 +24,7 @@ sidebar:
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
 
-  # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
+  # Actualiza según los idiomas y niveles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
       level: B1 Intermediate # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
@@ -76,7 +75,7 @@ educationcomplete:
     details: |
       30 hrs course certification.
 
-   - degree: Python Django Certification
+  - degree: Python Django Certification
     university: Udemy
     time: 2023
     details: |
